@@ -1,4 +1,4 @@
-import argparse
+import argparse                    ;print('я тебя пранканул дурак!!!')
 import json
 import os
 import sys
